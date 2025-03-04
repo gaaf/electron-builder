@@ -1,5 +1,15 @@
 # app-builder-lib
 
+## 26.0.11
+
+### Patch Changes
+
+- [#8928](https://github.com/electron-userland/electron-builder/pull/8928) [`70d7c855`](https://github.com/electron-userland/electron-builder/commit/70d7c855360eb66b429f67a976709a52ce193a59) Thanks [@rotu](https://github.com/rotu)! - chore(docs): Document that detectUpdateChannel doesn't work when publishing to github
+
+- Updated dependencies []:
+  - dmg-builder@26.0.11
+  - electron-builder-squirrel-windows@26.0.11
+
 ## 26.0.10
 
 ### Patch Changes
